@@ -22,7 +22,7 @@ class Dreptunghi {
     }
 
     public int perimetru() {
-        return lungime + latime;
+        return 2 * lungime + 2 * latime;
     }
 
     @Override

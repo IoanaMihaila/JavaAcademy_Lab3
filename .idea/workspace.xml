@@ -4,28 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="65254096-cdc8-40db-98b0-dd97dc877c4e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaAcademy_Lab3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Laptop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MasinaMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NumberMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PassByValueMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PersoanaMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReferinteObiecteMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StaticMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tema/CarteMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tema/CercMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tema/DreptunghiMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tema/ExercitiuToStringMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tema/PrizaMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tema/ProblemaEquals.java" afterDir="false" />
+    <list default="true" id="65254096-cdc8-40db-98b0-dd97dc877c4e" name="Changes" comment="Prima versiune a proiectului">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tema/DreptunghiMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tema/DreptunghiMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tema/ExercitiuToStringMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tema/ExercitiuToStringMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tema/ProblemaEquals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tema/ProblemaEquals.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,29 +37,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.CarteMain.executor": "Run",
-    "Application.CercMain.executor": "Run",
-    "Application.DreptunghiMain.executor": "Run",
-    "Application.ExercitiuToStringMain.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.MasinaMain.executor": "Run",
-    "Application.NumberMain.executor": "Run",
-    "Application.PassByValueMain.executor": "Run",
-    "Application.PersoanaMain.executor": "Run",
-    "Application.PrizaMain.executor": "Run",
-    "Application.ProblemaEquals.executor": "Run",
-    "Application.ReferinteObiecteMain.executor": "Run",
-    "Application.StaticMain.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/PJ/JavaAcademy_Lab3/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.CarteMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CercMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DreptunghiMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ExercitiuToStringMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MasinaMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NumberMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PassByValueMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PersoanaMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrizaMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProblemaEquals.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReferinteObiecteMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StaticMain.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/PJ/JavaAcademy_Lab3/src/Main.java&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -86,6 +69,20 @@
       <option name="presentableId" value="Default" />
       <updated>1729783594159</updated>
     </task>
+    <task id="LOCAL-00001" summary="Prima versiune a proiectului">
+      <option name="closed" value="true" />
+      <created>1729933640708</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1729933640708</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Laboratorul 3" />
+    <MESSAGE value="Prima versiune a proiectului" />
+    <option name="LAST_COMMIT_MESSAGE" value="Prima versiune a proiectului" />
   </component>
 </project>
